@@ -2,7 +2,7 @@
 
 <!-- **Location:** San Francisco, CA
 **Phone:** (734) 450-6975 -->
-**Email:** alanlai@umich.edu
+**Email:** [alanlai@umich.edu](mailto:alanlai@umich.edu)
 **LinkedIn:** [linkedin.com/in/alanlai0519](https://linkedin.com/in/alanlai0519)
 **GitHub:** [github.com/REsponce](https://github.com/REsponce)
 
@@ -20,22 +20,18 @@ National Yang Ming Chiao Tung University - Hsinchu, Taiwan
 
 ## Skills
 
-- **Programming Languages:** C, C++, Python, JavaScript, MATLAB, Assembly Language, lex & yacc, MySQL, R
-- **Machine Learning Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn
-- **Deep Learning:** CNNs, RNNs, GANs
-- **Natural Language Processing (NLP):** NLTK, Transformers
-- **Big Data Technologies:** PySpark, PySparkSQL
-- **Data Visualization:** Matplotlib, Seaborn
-- **Cloud Platforms:** AWS
-- **Version Control:** Git
-- **Tools:** Jupyter Notebook, Docker, Terraform, Jenkins Linux, CUDA
+- **Programming:** C, C++, Python, JavaScript, MATLAB, Assembly, MySQL, R, lex & yacc 
+- **Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-learn, CNNs, RNNs, GANs  
+- **Big Data & Cloud:** PySpark, PySparkSQL, AWS, CUDA  
+- **DevOps & Tools:** Git, Docker, Terraform, Jenkins, Linux, Jupyter Notebook  
+- **Data Visualization & NLP:** Matplotlib, Seaborn, NLTK, Transformers  
 
 ## Work Experience
 
 ### Software Engineering Intern  
 *Splashtop Inc., Taipei, Taiwan* (Jun 2023 – Aug 2023)  
-- Optimized virtual machine network on AWS, reducing infrastructure costs by **15%**.  
-- Automated test environment setup using Terraform & Jenkins, cutting testing time by **60%**.  
+- Optimized cloud infrastructure for virtual machines using AWS EC2, Terraform, reducing infrastructure costs by **15%**.  
+- Automated CI/CD pipelines using Terraform, Jenkins, and Docker, reducing test deployment time by **60%**.
 - Enhanced security by updating Jenkins with Docker, resolving **5 critical vulnerabilities**.  
 
 ### Blockchain Analyst Intern  
@@ -58,8 +54,8 @@ National Yang Ming Chiao Tung University - Hsinchu, Taiwan
 
 ### Predicting Student Performance in Game-based Learning  
 *Multivariate Analysis Course Project, Ann Arbor, MI* (Mar 2023 – Apr 2023)  
-- Encoded text data using MobileBERT, achieving an **F1 score of 0.710**.  
-- Applied feature engineering and parameter tuning, improving overall **F1 score to 0.808 (+13.8%)**.  
+- Encoded text data with Natural Language Processing techniques such as MobileBERT, achieving an **F1 score of 0.710**.
+- Applied feature engineering and parameter tuning, improving overall **F1 score to 0.808 (+13.8%)**.
 
 ### Restaurant Closure Forecasting on Yelp  
 *Applied Machine Learning Course Project, Ann Arbor, MI* (Nov 2022 – Dec 2022)  
@@ -79,6 +75,6 @@ National Yang Ming Chiao Tung University - Hsinchu, Taiwan
 
 ## ADDITIONAL INFORMATION
 
-- **Languages:** Mandarin(native), English(fluent), Japanese(intermediate)
+- **Languages:** Mandarin (Native), English (Fluent), Japanese (Intermediate)
 <!-- - **Certifications:** AWS Certified Cloud Practitioner (Pending)  -->
 - **Interests:** Competitive programming, algorithmic trading, AI ethics
