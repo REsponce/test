@@ -24,7 +24,7 @@ National Yang Ming Chiao Tung University - Hsinchu, Taiwan
 - **Machine Learning Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn
 - **Deep Learning:** CNNs, RNNs, GANs
 - **Natural Language Processing (NLP):** NLTK, Transformers
-- **Big Data Technologies:** Spark
+- **Big Data Technologies:** PySpark, PySparkSQL
 - **Data Visualization:** Matplotlib, Seaborn
 - **Cloud Platforms:** AWS
 - **Version Control:** Git
